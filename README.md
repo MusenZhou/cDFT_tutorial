@@ -4,7 +4,7 @@ This page offers several user-friendly code for one who is interested in learnin
 
 ## Supported case
 cDFT_JCE_LJ: Calculation of the one dimensional density profile with 
-Lennard-Jones attraction at the origin (r=0).<br>
+Lennard-Jones attraction at the origin (r=0).<br><br>
 
 
 ## Update log
